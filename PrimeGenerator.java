@@ -1,7 +1,7 @@
 import java.util.*;
 import java.lang.*;
 
-public class Main {
+public class PrimeGenerator {
 
 	public static boolean isPrime(int num) {
 
